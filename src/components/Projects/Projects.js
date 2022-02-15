@@ -46,8 +46,8 @@ function Projects() {
               imgPath={DevConnector}
               isBlog={false}
               title="Dev-Connector"
-              description="Developed a Social Networking website for Developers to connect with each other. Used Python Django and Django REST Framework for development. Implemented Signup  and Login Functionality for users. Also implemented features for users to create, update and delete posts. The data for user profile and posts are stored in Mongo Database."
-              link="https://github.com/Karan-Pardasani/Dev-Connector"
+              description="Developed a website for Developers to create, edit and delete Posts. Used Python Django and Django REST Framework for development. Implemented Signup  and Login Functionality for users. The data for user profile and posts are stored in SQlite Database."
+              link="https://github.com/Karan-Pardasani/Blog_Post_Web_App_Django"
             />
           </Col>
 
